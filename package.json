@@ -1,0 +1,23 @@
+{
+  "name": "footballbot",
+  "version": "0.0.1",
+  "description": "FB messsenger bot for football latest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsanth/footballbot.git"
+  },
+  "author": "Santhosh Kumar Bala Krishnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsanth/footballbot/issues"
+  },
+  "homepage": "https://github.com/bsanth/footballbot#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
